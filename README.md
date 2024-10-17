@@ -2,8 +2,8 @@
 <h3 align="center">A passionate Software Engineer, with heavy Backend Engineering experience and Frontend Experience. I'm also an aspiring Infrastructure Engineer</h3>
 
 <p align="left"> <a href="https://github.com/ryo-ma/github-profile-trophy"><img src="https://github-profile-trophy.vercel.app/?username=auxy2" alt="abdullahi" /></a> </p>
-
-[![trophy](https://github-profile-trophy.vercel.app/?auxy2=ryo-ma&theme=onedark)](https://github.com/ryo-ma/github-profile-trophy)
+---
+<p align="left"> <a href="https://github.com/ryo-ma/github-profile-trophy"><img src="https://github-profile-trophy.vercel.app/username?auxy2=ryo-ma&theme=onedark"
 
 - 🌱 I’m currently learning **Kubernetes, Go, Rust, and DDD**
 
