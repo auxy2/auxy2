@@ -18,29 +18,8 @@ Here are some of the technologies I'm skilled in:
 - **Cloud Services**:
   ![AWS](https://img.shields.io/badge/-AWS-232F3E?style=flat-square&logo=amazonaws)
 
-
-# 🌈 Welcome to My GitHub Profile! 🌈
-
-## About Me
-Hello! I'm Abdulahi, a passionate Backend and DevOps Engineer based in Nigeria. I love building scalable and efficient systems that drive performance and reliability.
-
-### 🌟 Technologies I Use
-Here are some of the technologies I'm skilled in:
-
-- **Backend**:
-  ![Go](https://img.shields.io/badge/-Go-00ADD8?style=flat-square&logo=go)
-  ![Node.js](https://img.shields.io/badge/-Node.js-339933?style=flat-square&logo=node.js)
-  ![Python](https://img.shields.io/badge/-Python-black?style=flat-square&logo=python)
-
-- **Databases**:
-  ![MongoDB](https://img.shields.io/badge/-MongoDB-47A248?style=flat-square&logo=mongodb)
-  ![SQL](https://img.shields.io/badge/-SQL-black?style=flat-square&logo=postgresql)
-
-- **Cloud Services**:
-  ![AWS](https://img.shields.io/badge/-AWS-232F3E?style=flat-square&logo=amazonaws)
-
 ### 🔍 Currently Working On
-I'm currently diving into building a Global Study Voyage using Node.js and AWS, developing a serverless application on AWS,. This project allows me to enhance my skills in cloud architecture.
+I'm currently diving into building a **Global Study Voyage** using Node.js and AWS, developing a serverless application on AWS,. This project allows me to enhance my skills in cloud architecture.
 
 ### 📫 Let's Connect
 - **Email**: [isihaqabdullahi01@gmail.com](mailto:isihaqabdullahi01@gmail.com)
