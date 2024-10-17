@@ -3,15 +3,14 @@
 
 <p align="left"> <a href="https://github.com/ryo-ma/github-profile-trophy"><img src="https://github-profile-trophy.vercel.app/?username=auxy2" alt="abdullahi" /></a> </p>
 ---
-https://github.com/ryo-ma/github-profile-trophy https://github-profile-trophy.vercel.app/username?auxy2=ryo-ma&theme=onedark
 
 - 🌱 I’m currently learning **Kubernetes, Go, Rust, and DDD**
 
 - 💬 Ask me about **JavaScript, TypeScript, NodeJs, NestJS,Clean Code, Technical Writing, and Go**
 
-- 📫 How to reach me **olusola.samuel.oluwatobi@gmail.com**
+- 📫 How to reach me **isihaqabdullahi01@gmail.com**
 
-- ⚡ Fun fact: **I enjoy playing Fifa**
+- ⚡ Fun fact: **I enjoy playing PES**
 
 ### Blogs posts
 <!-- BLOG-POST-LIST:START -->
@@ -37,10 +36,7 @@ https://github.com/ryo-ma/github-profile-trophy https://github-profile-trophy.ve
 
 ---
 
-# 🌈 Welcome to My GitHub Profile! 🌈
 
-## About Me
-Hello! I'm **Abdulahi**, a passionate **Backend and DevOps Engineer** based in Nigeria. I thrive on building scalable and efficient systems that drive performance and reliability. I’m always eager to learn and explore new technologies to tackle complex challenges.
 
 ### 🌟 Technologies I Use
 Here are some of the technologies I’m skilled in:
