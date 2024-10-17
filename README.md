@@ -1,7 +1,7 @@
 # 🌈 Welcome to My GitHub Profile! 🌈
 
 ## About Me
-Hello! I'm Abdulahi, a passionate **Backend and DevOps Engineer** based in Nigeria. I thrive on building scalable and efficient systems that drive performance and reliability. I’m always eager to learn and explore new technologies to tackle complex challenges.
+Hello! I'm **Abdulahi**, a passionate **Backend and DevOps Engineer** based in Nigeria. I thrive on building scalable and efficient systems that drive performance and reliability. I’m always eager to learn and explore new technologies to tackle complex challenges.
 
 ### 🌟 Technologies I Use
 Here are some of the technologies I’m skilled in:
