@@ -3,6 +3,8 @@
 
 <p align="left"> <a href="https://github.com/ryo-ma/github-profile-trophy"><img src="https://github-profile-trophy.vercel.app/?username=auxy2" alt="abdullahi" /></a> </p>
 
+[![trophy](https://github-profile-trophy.vercel.app/?auxy2=ryo-ma&theme=onedark)](https://github.com/ryo-ma/github-profile-trophy)
+
 - 🌱 I’m currently learning **Kubernetes, Go, Rust, and DDD**
 
 - 💬 Ask me about **JavaScript, TypeScript, NodeJs, NestJS,Clean Code, Technical Writing, and Go**
