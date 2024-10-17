@@ -3,9 +3,9 @@
 
 <p align="left"> <a href="https://github.com/ryo-ma/github-profile-trophy"><img src="https://github-profile-trophy.vercel.app/?username=auxy2" alt="abdullahi" /></a> </p>
 ---
-<p align="left"> <a href="https://github.com/ryo-ma/github-profile-trophy"> <img src="https://github-profile-trophy.vercel.app/?username=auxy2" alt="abdullahi" /></a> </p>
+<!-- <p align="left"> <a href="https://github.com/ryo-ma/github-profile-trophy"> <img src="https://github-profile-trophy.vercel.app/?username=auxy2" alt="abdullahi" /></a> </p> -->
 
-- 🌱 I’m currently learning **Kubernetes, Go, Rust, and DDD**
+- 🌱 I’m currently learning ** Go, Java, and DDD**
 
 - 💬 Ask me about **JavaScript, TypeScript, NodeJs, NestJS,Clean Code, Technical Writing, and Go**
 
@@ -19,7 +19,7 @@
 
 <h3 align="left">Connect with me:</h3>
 <p align="left">
-<a href="https://twitter.com/solathecoder" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/twitter.svg" alt="solathecoder" height="30" width="40" /></a>
+<a href="https://twitter.com/is_akanni" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/twitter.svg" alt="solathecoder" height="30" width="40" /></a>
 <a href="https://linkedin.com/in/solathecoder" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="solathecoder" height="30" width="40" /></a>
 <a href="https://hashnode.com/@solathecoder" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/hashnode.svg" alt="@solathecoder" height="30" width="40" /></a>
 <a href="https://medium.com/@solathecoder" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/medium.svg" alt="@solathecoder" height="30" width="40" /></a>
