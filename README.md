@@ -3,24 +3,28 @@
 ## About Me
 Hello! I'm Abdulahi, a passionate Backend and DevOps Engineer based in Nigeria. I love building scalable and efficient systems that drive performance and reliability.
 
+### 🌟 Technologies I Use
+Here are some of the technologies I'm skilled in:
+
 - **Backend**:
-  <img src="https://img.shields.io/badge/-Go-00ADD8?style=flat&logo=go" alt="Go" width="100"/>
-  <img src="https://img.shields.io/badge/-Node.js-339933?style=flat&logo=node.js" alt="Node.js" width="100"/>
-  <img src="https://img.shields.io/badge/-Python-black?style=flat&logo=python" alt="Python" width="100"/>
+  ![Go](https://img.shields.io/badge/-Go-00ADD8?style=flat-square&logo=go)
+  ![Node.js](https://img.shields.io/badge/-Node.js-339933?style=flat-square&logo=node.js)
+  ![Python](https://img.shields.io/badge/-Python-black?style=flat-square&logo=python)
 
 - **Databases**:
-  <img src="https://img.shields.io/badge/-MongoDB-47A248?style=flat&logo=mongodb" alt="MongoDB" width="100"/>
-  <img src="https://img.shields.io/badge/-SQL-black?style=flat&logo=postgresql" alt="SQL" width="100"/>
+  ![MongoDB](https://img.shields.io/badge/-MongoDB-47A248?style=flat-square&logo=mongodb)
+  ![SQL](https://img.shields.io/badge/-SQL-black?style=flat-square&logo=postgresql)
 
 - **Cloud Services**:
-  <img src="https://img.shields.io/badge/-AWS-232F3E?style=flat&logo=amazonaws" alt="AWS" width="100"/>
+  ![AWS](https://img.shields.io/badge/-AWS-232F3E?style=flat-square&logo=amazonaws)
 
 ### 📫 Let's Connect
-- **Email**: [your-email@example.com](mailto:your-email@example.com)
-- **LinkedIn**: [Your LinkedIn Profile](https://www.linkedin.com/in/yourprofile)
-- **Twitter**: [Your Twitter Profile](https://twitter.com/yourprofile)
+- **Email**: [isihaqabdullahi01@gmail.com](mailto:isihaqabdullahi01@gmail.com)
 
 ---
+
+Feel free to reach out if you have any questions or just want to chat about tech!
+
 
 Feel free to reach out if you have any questions or just want to chat about tech!
 
