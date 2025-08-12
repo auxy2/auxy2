@@ -37,7 +37,7 @@
 ---
 
 
-Feel free to reach out if you have any questions or just want to chat about tech!
+Feel free to reach out if you have any questions or just want to chat about tech related stuffs!
 
 
 
