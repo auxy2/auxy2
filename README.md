@@ -34,7 +34,7 @@
 <p><img align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=auxy2&" alt="abdullahi" /></p>
 
 
----
+----
 
 
 Feel free to reach out if you have any questions or just want to chat about tech related stuffs!
